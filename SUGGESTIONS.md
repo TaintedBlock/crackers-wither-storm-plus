@@ -1,10 +1,12 @@
 ## Suggestion guidelines
-----------------------------------------
+
+
 I don't mind taking suggestions, but, there are a few suggestions that people have mentioned I'd like to NOT have to continue denying.
 
-------------------------------------------------------------
+
 
 ## Story Mode suggestions
+
 1. Tentacle attacks
 -I don't plan on adding this. Its not like I could anyway. CWSPLUS is not about making it like Story Mode. 
 
