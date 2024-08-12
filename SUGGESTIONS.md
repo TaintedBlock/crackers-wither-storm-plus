@@ -1,4 +1,4 @@
-## Suggestion guidelines
+# Suggestion guidelines
 
 
 I don't mind taking suggestions, but, there are a few suggestions that people have mentioned I'd like to NOT have to continue denying.
