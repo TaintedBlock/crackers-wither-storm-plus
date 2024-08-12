@@ -2,6 +2,7 @@
 
 
 I don't mind taking suggestions, but, there are a few suggestions that people have mentioned I'd like to NOT have to continue denying.
+I also like being able to see what people want changed, or want to be added. I want to be able to make CWSPLUS the best it can be.
 
 
 
