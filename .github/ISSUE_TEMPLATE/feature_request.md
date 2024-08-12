@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for CWSPLUS
-title: "[FEATURE]"
+title: "[Feature]:"
 labels: feature
 assignees: ''
 
