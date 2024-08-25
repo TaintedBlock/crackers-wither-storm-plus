@@ -6,6 +6,11 @@ I also like being able to see what people want changed, or want to be added. I w
 
 
 
+##Duplicates
+
+-Try not to make duplicate bug reports or feature requests. Because whatever you may be reporting or suggestion could have been answered already.  
+
+
 ## Story Mode suggestions
 
 1. Tentacle attacks
@@ -13,3 +18,4 @@ I also like being able to see what people want changed, or want to be added. I w
 
 2. More armors/Story Mode armors
 -This is definitely out of the question. I have no intention on adding these as there is no point. There is also already tons of mods that add them.
+
