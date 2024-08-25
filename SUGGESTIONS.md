@@ -6,7 +6,7 @@ I also like being able to see what people want changed, or want to be added. I w
 
 
 
-##Duplicates
+## Duplicates
 
 -Try not to make duplicate bug reports or feature requests. Because whatever you may be reporting or suggestion could have been answered already.  
 
