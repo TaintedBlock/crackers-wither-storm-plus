@@ -21,3 +21,6 @@ I also like being able to see what people want changed, or want to be added. I w
 
    This is definitely out of the question. I have no intention on adding these as there is no point. There is also already tons of mods that add them.
 
+3. Bowels Flipping
+   This is not possible due to how the bowels are made in CWSM, and I do not plan on making custom bowels.
+
